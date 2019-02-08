@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/slip1"
+        android:title="Slip 1"
+        android:icon="@drawable/betslip"
+        />
+    <item
+        android:id="@+id/slip2"
+        android:icon="@drawable/betslip"
+        android:title="Slip 2"
+        />
+    <item
+        android:id="@+id/slip3"
+        android:title="Slip 3"
+        android:icon="@drawable/betslip"
+        />
+
+</menu>
